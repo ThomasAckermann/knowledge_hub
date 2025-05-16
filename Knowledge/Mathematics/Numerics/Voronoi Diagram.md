@@ -1,0 +1,2 @@
+#Numerics #Robotics 
+A Voronoi diagram is a partition of a space in regions based on given points or areas that describe obstacles. A region of the Voronoi diagramm is defined as the set of points, whose distance to an obstacle is less than to all other obstacles. All points on the boundary between two regions have the same distance to their own and to their neighbouring obstacles.

@@ -1,0 +1,2 @@
+#MachineLearning #Numerics 
+The Damped least squares is an optimization problem where an additional term is added to regular least squares to avoid extreme results. The additional term has a dampening factor $\lambda$. We get $E = E_{\text{LS}} + \lambda^2 \| \Delta \theta \|^2$. Where $E_\text{LS}$ is the least squares energy function.
