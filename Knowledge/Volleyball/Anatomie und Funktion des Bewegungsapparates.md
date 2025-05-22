@@ -119,6 +119,16 @@ Das Gegenspielerprinzip ermöglicht eine optimale Vorspannung und Vordehnung der
 #### Tendenzen zur Verkürzung
 - Hintere Halsmuskulatur
 - Hand und Fingerbeuger
+- Armbeuger
+- Brustmuskel
+- Rückenstrecker
+- Rumpfseitbeuger
+- Hüftbeuger
+- Oberschenkelbindenspanner
+- Oberschenkelanzieher
+- Kniestrecker
+- Kniebeuger
+- Wadenmuskeln
 #### Muskelverletzungen
 - Muskelzerrung
 	- Ausdehnung und teilweise zerstört und der Feingeweblichen Strukturen des Muskels

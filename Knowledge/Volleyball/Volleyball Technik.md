@@ -85,15 +85,28 @@ Schlag
 - Ball probieren mit Schlagarm anzuwerfen
 - Schlagarm endet auf gegenüberliegenden Oberschenkel 
 - Beide Füße zeigen nach vorne
+- Sprungbein vorne
 - Ellbogen locker nach hinten ziehen (nicht oben zurückziehen)
 - Weit oben den Ball treffen
 - Hand offen
+- Armgelenk abklappen
+Es gibt verschiedene Schlagtypen. Diese werden in der Schlagschule gelehrt.
+- Schlag gerade aus wie oben erklärt
+- Drehschlag
+	- Hierbei wird der Arm am Körper links (bei Rechtshändern) vorbei gezogen
+	- Dies ist notwendig um auf die Winkel nach links schlagen zu können und daher sehr essentiell
+- Schläge bei Bällen die nah ans Netz gestellt wurden
+	- Hierbei bremst die Hand oben ab
 Anlauf
-- Sprungbein herausfinden (Emma)
-- Bei Beginn Gleichgewicht auf linkes Bein
+- Sprungbein herausfinden
+- Bei Beginn Gleichgewicht auf linkes Bein beim 3er Stemmschritt
 - Außen und Mitte diagonal zur 5 ausgerichtet anlaufen
-- Außen außerhalb vom Feld anlaufen
 - Diagonal auf der Linie anlaufen
+- Außen außerhalb vom Feld anlaufen
+- Beim Anlauf Oberkörper leicht nach vorne neigen
+- Am Ende leichte Squad position um Kraft in die Bewegung nach oben zu bekommen
+- Arme bei vorletztem Schritt weit nach hinten
+
 ### Technik
 Beim Anlauf ist für alle Angreifer wichtig, dass sie Richtung 5 ausgerichtet sind. Dies liegt daran, dass man Schläge weg vom Körper vermeiden will, da diese schädlich für den Körper sind.
 ## Block
