@@ -12,6 +12,16 @@ Tags: #Volleyball
 - Verschiedene Variationen möglich:
 	- Im liegen anfangen
 	- Ähnliches signal geben
+### Gleichgewichtsübungen
+- Yoga Matter einrollen (oder anderer wackliger untergrund), Hierbei folgende Übungen:
+	- Stehen
+	- Einbeinig stehen
+	- Einbeinig stehen + Bein nach vorne/hinten/rechts/links bewegen
+	- Zu zweit einbeinig stehen + Kampf mit dem anderen Fuss: mit außen oder innenseite gegeneinander drücken
+- Auf einem Bein wild durcheinander hüpfen und andere Personen leicht stoßen
+- Zu zweit einer Hände und knie auf dem Boden
+	- Ein Bein und ein arm wird angehoben (Superwoman)
+	- Zweite Person versucht die andere Person umzustupsen
 ## Kondition
 #### Kraft
 - Liegestütz

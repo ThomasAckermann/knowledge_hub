@@ -22,7 +22,7 @@ Die einzelnen Übungen sind danach gegliedert ob sie für den Technikerwerb sind
 - Es kann über außen Mitte und Kopf gespielt
 - Aufschlag Spieler 1 (der Spieler hinten Mitte) 
 - Zuspieler 3 
- ![[Screenshot 2025-05-21 at 18.36.05.png]]
+![[Screenshot 2025-05-21 at 18.36.05.png]]
 ## Annahme
 Allgemein:
 - 1-2 Leute in der Annahme meist am besten da sonst nicht genug Ballkontakte
@@ -73,7 +73,7 @@ Beim Schlag über Netz:
 - Depth jumps
 
 #### Block
- - auf Kasten stehen Ball hochwerfen anderer muss blocken
+- Auf Kasten stehen Ball hochwerfen anderer muss blocken
 - Bank und Ball hochheben auf 3 und 4/2. Ball in der Mitte berühren nach außen laufen Ball berühren
 
 ---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Volleyball/Volleyball Technik.md",
+                "file": "Knowledge/Volleyball/Energiestoffwechsel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volleyball Technik"
+              "title": "Energiestoffwechsel"
             }
           }
         ]
@@ -170,20 +170,34 @@
   },
   "active": "499157353e2c6284",
   "lastOpenFiles": [
-    "Knowledge/Volleyball/Training.md",
-    "Knowledge/Volleyball/Methodische Maßnahmen.md",
     "Knowledge/Volleyball/Koordinative und Konditionelle Übungen beim C-Trainer.md",
-    "Knowledge/Volleyball/Koordination.md",
-    "Knowledge/Volleyball/Anatomie und Funktion des Bewegungsapparates.md",
     "Knowledge/Volleyball/Volleyball Technik.md",
     "Knowledge/Volleyball/Volleyball Übungen beim C-Trainer.md",
-    "Knowledge/Volleyball/Trainerkompetenzen.md",
-    "Knowledge/Volleyball/Planung und Durchführung einer Trainingseinheit.md",
-    "Knowledge/Volleyball/Motorische Fähigkeiten.md",
     "Screenshot 2025-05-21 at 18.36.05.png",
+    "Knowledge/Volleyball/Training.md",
+    "Knowledge/Electrical Engineering/Control Theory/Optimal Control Theory/Optimale Folgeregelung.md",
+    "Knowledge/Electrical Engineering/Control Theory/Optimal Control Theory/Synthese optimaler Regelungen mittels LQ-Optimierung.md",
+    "Knowledge/Electrical Engineering/Control Theory/Closed-loop control system.md",
+    "Knowledge/Electrical Engineering/Control Theory/Transfer Element.md",
+    "Knowledge/Electrical Engineering/Control Theory/Principle of operation.md",
+    "Knowledge/Electrical Engineering/Control Theory/PID-Controller.md",
+    "Knowledge/Electrical Engineering/Control Theory/Control Loop.md",
+    "Knowledge/Electrical Engineering/Control Theory/Control System.md",
+    "Knowledge/Electrical Engineering/Signal Processing/Cohen's Class.md",
+    "Knowledge/Electrical Engineering/Signal Processing/Analytic Signals.md",
+    "Knowledge/Electrical Engineering/Signal Processing/Hilbert Transform.md",
+    "Knowledge/Mathematics/Analysis/Polynomial spaces.md",
+    "Knowledge/Mathematics/Dynamical Systems/Discrete Dynamical Systems/Almost Periodic Points.md",
+    "Knowledge/Mathematics/Linear Algebra/Endomorphism.md",
+    "Knowledge/Mathematics/Linear Algebra/Homogeneous Matrices.md",
+    "Knowledge/Mathematics/Machine Learning/Deep Learning/Overview Types of Neural Networks.md",
+    "Knowledge/Mathematics/Machine Learning/Deep Learning/Data Structures of Input and Output of Neural Networks.md",
+    "Knowledge/Mathematics/Machine Learning/Deep Learning/Fully Connected Neural Networks.md",
+    "Knowledge/Mathematics/Machine Learning/Deep Learning/Long-Short Term Memory Networks.md",
+    "Knowledge/Mathematics/Machine Learning/Statistical Learning/Concentration Inequalities.md",
+    "Knowledge/Mathematics/Machine Learning/Statistical Learning/High-dimensional Linear models and the LASSO.md",
+    "Knowledge/Mathematics/Differential Equations/Dirichlet boundary condition.md",
     "IMG_9782.heic",
-    "2025-05-20.md",
-    "README.md",
     "Knowledge/Volleyball"
   ]
 }

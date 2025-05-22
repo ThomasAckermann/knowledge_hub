@@ -49,5 +49,34 @@ Folgende Reihenfolge sollte durchgeführt werden:
 3. Erhöhung der Trainingsintensität
 4. Erhöhung der Komplexität bzw. koordinativen Ansprüche
 
+### Prinzip der wechselnden Belastung
+Durch wechselnde Belastungsformen und abwechselnde Belastung einzelner Teilsystem können gleichzeitig. mehrere Leistungsfaktoren verbessert werden.
+- Belastungsformen: Ausdauer Kraft Schnelligkeit Beweglichkeit oder Koordinationstraining
+- Teilsysteme verschiedene Muskelgruppen, Herz-Kreislauf-System, Nervensystem
+### Grundsätze des Kindertrainings
+Eine zunehmende Spezialisierung ist nur der Basis einer vielseitigen körperlichen Allgemeinausbildung sinnvoll. Prinzip der zunehmenden Spezialisierung
+1. Allgemeine motorische Grundausbildung
+2. Nachwuchs- und Aufbautraining Sportartspezifisch
+3. Hochleistungstraining
+### Säulen des Kindertrainings:
+bis ca 8 Jahre
+- altersgemäß, entwicklungsgemäß
+- vielseitig, unspezifisch
+- ganzheitlich
+- spielerisch
+$\to$ Sammeln unterschiedlicher Bewegungs- und Körpererfahrungen
+$\to$ Ausbildung motorischer Grundfähigkeiten und -fertigkeiten
+Es wurde untersucht, Ganzheitliche Ausbildung ist langfristig besser für Kinder
+
+Unterscheidung:
+- Kalendarisches Alter (nach Jahrgängen)
+- Biologisches Alter (nach der momentanen körperlichen Wachstumsentwicklung)
+Akzeleration $\Rightarrow$ Frühentwickler
+- Biologisches Alter > kalendarisches Alter
+Retardierung $\Rightarrow$ Spätentwickler
+- Biologisches Alter < kalendarisches Alter
+Prinzip der Individualität und der Altersgemäßen Trainierbarkeit
+Das biologische Alter ist dabei die Planungsgrundlage für das sportliche Training
+
 ---
 ## References
